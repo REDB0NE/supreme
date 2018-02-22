@@ -8,6 +8,7 @@ var lastTime;
 var key = 1;
 var int1;
 var NOTIFY_CHANNEL;
+client.login(process.env.BOT_TOKEN):
 
 function msToTime(timeMS) {
       var timeString;
